@@ -1,0 +1,1 @@
+Esri中国2013年开发者大会“扩展ArcGIS for Server 10.1服务技术探究”讲座中示例代码。Krige_idw为SOE的实现代码，该代码基于arcobjects sdk 10.1 for .net & visual studio 2010&.net framework 3.5实现，这段代码用来演示基于SOE的模板如何创建SOE以及设置SOE相关的属性，如何处理客户端请求等操作。
